@@ -1,4 +1,2 @@
-# wang_lab
-The website of Tao Wang Lab at MDACC
-
-Coming soon!
+# wanglab.github.io
+test page for wang lab
